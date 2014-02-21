@@ -2,7 +2,6 @@
 
 int main(void){
 	printf("Hello world!\n");
-	int i = 3;
-	printf("%d", i);
+	printf("Hello again!\n");
 	return 0;
 }
